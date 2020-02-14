@@ -1,0 +1,174 @@
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 80px;
+}
+
+.middle-container{
+    
+}
+
+.me-desc{
+    width: 50%;
+    margin: 20px auto;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px;
+}
+
+.headline{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+.footer-link{
+    margin: 0 50px;
+}
+
+.contact-me{
+    margin: 20px;
+}
+
+.tagline{
+    font-size: 2.5rem;
+    margin-top: 10px;
+    font-family: 'Montserrat Light', sans-serif;
+    font-weight: normal;
+    line-height: 2;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 2;
+    clear: both;
+}
+
+.computer-img{
+    width: 25%;
+    /* text-align: right; */
+    float: right;
+    margin-left: 30px;
+    /* margin-bottom: 30px; */
+}
+
+.pepper-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    /* margin-bottom: 30px; */
+}
+
+
+
+
+
+.engine{
+    text-decoration: underline;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width: 8px;
+    width: 10%;
+    color: #EAF6F6;
+    margin: 50px auto;
+    clear: both;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+}
+
+
+h3{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    line-height: 2;
+
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 600px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
+
+.cpyrt{
+    color: #EAF6F6;
+}
+
+
+
+
+.contactme {
+	-moz-box-shadow:inset 0px 1px 0px 0px #eaf6f6;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #eaf6f6;
+	box-shadow:inset 0px 1px 0px 0px #eaf6f6;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #66bfbf), color-stop(1, #11999E) );
+    background:-moz-linear-gradient( center top, #66bfbf 5%, #11999E
+     100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11999E', endColorstr='#66bfbf');
+	background-color:#11999E;
+	-webkit-border-top-left-radius:15px;
+	-moz-border-radius-topleft:15px;
+	border-top-left-radius:15px;
+	-webkit-border-top-right-radius:15px;
+	-moz-border-radius-topright:15px;
+	border-top-right-radius:15px;
+	-webkit-border-bottom-right-radius:15px;
+	-moz-border-radius-bottomright:15px;
+	border-bottom-right-radius:15px;
+	-webkit-border-bottom-left-radius:15px;
+	-moz-border-radius-bottomleft:15px;
+	border-bottom-left-radius:15px;
+	text-indent:0;
+    display:block;
+    margin: 30px auto;
+	color:#eaf6f6;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:45px;
+	line-height:45px;
+	width:131px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #7cacde;
+}
+.contactme:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #66bfbf), color-stop(1, #11999E) );
+	background:-moz-linear-gradient( center top, #66bfbf 5%, #11999E 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#66bfbf', endColorstr='#11999E');
+	background-color:#66bfbf;
+}.contactme:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
